@@ -31,7 +31,7 @@ This website documents my 2017 Audi A6 2.0T Quattro (C7.5 Platform) build journe
 
 1. **Clone or download the repository**
    ```bash
-   git clone https://github.com/johnnymez/cisc375_assignment1
+   git clone https://github.com/johnnymez/cisc375_assignment1.git
    cd cisc375_assignment1
    ```
 
