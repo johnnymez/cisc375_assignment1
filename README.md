@@ -2,7 +2,7 @@
 
 ## Overview
 
-This website documents my 2017 Audi A6 2.0T Quattro (C7.5 Platform) build journey, showcasing the modifications and performance enhancements made to transform this daily driver into a high-performance vehicle. The site provides a comprehensive overview of the build, timeline of modifications, performance metrics, and resources used throughout the project.
+This website documents my 2017 Audi A6 2.0T Quattro (C7.5 Platform) build journey, showcasing the modifications and performance enhancements I have made. The site provides a comprehensive overview of the build, timeline of modifications, performance metrics, and resources used throughout the project.
 
 ### Key Features
 
@@ -19,39 +19,40 @@ This website documents my 2017 Audi A6 2.0T Quattro (C7.5 Platform) build journe
 - **Fonts**: Google Fonts (Orbitron, Work Sans)
 - **Design**: Responsive, modern web design with custom styling
 
-## Project Structure
+## Installation Instructions
 
-```
-├── index.html          # Homepage and build overview
-├── timeline.html       # Modification timeline
-├── stats.html          # Performance statistics
-├── resources.html      # Parts, tools, and resource links
-├── styles.css          # Main stylesheet
-├── timeline.css        # Timeline-specific styling
-└── AudiPictureSunset.png  # Hero image
-```
+### Prerequisites
+
+- A modern web browser (Chrome, Firefox, Safari, Edge)
+- A text editor if you want to customize the website
+- Basic file management capabilities
+
+### Setup Steps
+
+1. **Clone or download the repository**
+   ```bash
+   git clone https://github.com/johnnymez/audi-a6-build.git
+   cd audi-a6-build
+   ```
+
+2. **Open the website**
+   - Simply open `index.html` in your web browser
+   - Or, if you're hosting on a server, navigate to the server URL
+
+3. **Verify all pages load**
+   - The site includes four main pages:
+     - `index.html` - Homepage
+     - `timeline.html` - Modification timeline
+     - `stats.html` - Performance statistics
+     - `resources.html` - Parts and resources
 
 ## Usage Instructions
 
 ### Viewing the Website
 
-1. **Open the homepage**
-   - Open `index.html` in your web browser to view the main overview page
+Open `index.html` in your web browser to access the site. Use the navigation menu at the top to explore different sections:
 
-2. **Navigate sections**
-   - Use the navigation menu to explore different sections:
-     - **Overview**: Main build information and initial specs
-     - **Timeline**: Chronological history of modifications
-     - **Performance**: Performance metrics and statistics
-     - **Resources**: Parts list and helpful resources
-
-3. **Responsive viewing**
-   - The website is optimized for both desktop and mobile devices
-
-## Customization
-
-To modify the website:
-- Edit HTML files to update content
-- Modify `styles.css` for general styling changes
-- Edit `timeline.css` for timeline-specific styling
-- Replace `AudiPictureSunset.png` with your own images
+- **Overview**: Main build information, vehicle specs, and initial modifications
+- **Timeline**: Chronological history of all modifications and upgrades
+- **Performance**: Performance metrics, horsepower, and torque data
+- **Resources**: Parts list, tools, and helpful references
